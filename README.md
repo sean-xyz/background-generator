@@ -1,1 +1,3 @@
 # background-generator
+
+Updated readme
