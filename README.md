@@ -1,3 +1,3 @@
 # background-generator
 
-Updated readme
+Updated readme. Thu 3 Feb
